@@ -1,6 +1,6 @@
 # 🚀 Taskyte – Smart & Lightweight Task Manager
 
-**Taskyte** is a fullstack task management application designed for individuals and teams who need a fast, intuitive, and collaborative way to stay organized. It features task boards, real-time updates, drag-and-drop support, and role-based access — all built with a clean, responsive UI.
+**Taskyte** is a fullstack task management application built with React, Tailwind CSS, Node.js, Express, and MongoDB, designed to help individuals and teams manage their tasks through intuitive, responsive boards. It features user authentication with JWT, drag-and-drop Kanban-style task handling, role-based access control, due dates, priorities, and real-time updates. Axios is used for API integration, and the app is deployed using Vercel (frontend) and Render (backend), with the UI designed in Figma. Taskyte is structured for scalability and usability, with clean separation between frontend and backend, and supports features like collaborative boards, dark mode, and optional task sharing via invite.
 
 ---
 
