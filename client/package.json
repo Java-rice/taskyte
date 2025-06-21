@@ -2,6 +2,7 @@
   "name": "taskyte",
   "private": true,
   "version": "0.0.0",
+  "proxy": "http://localhost:5000",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,8 +14,10 @@
     "@tailwindcss/vite": "^4.1.10",
     "@tanstack/react-query": "^5.80.10",
     "@tanstack/react-query-devtools": "^5.80.10",
+    "dotenv": "^16.5.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2",
     "tailwindcss": "^4.1.10"
   },
   "devDependencies": {
