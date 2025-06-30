@@ -5,7 +5,7 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import Root from '@src/services/Root'
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
-
+//This Defines Tanstack Commands 
 const queryClient = new QueryClient({
   defaultOptions: {
     queries: {
